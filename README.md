@@ -1,3 +1,4 @@
+<img width="831" height="762" alt="375x667 Cellphone" src="https://github.com/user-attachments/assets/db792054-6324-4766-b414-408c17dfdf37" />
 # CleanCoast Cape Town - Web Development POE
 
 ## Student Information
@@ -122,16 +123,19 @@ CleanCoast Cape Town
 ## Screenshots (Responsive Design)
 
 ### Desktop View (1920 x 1080)
-![Alt Text](""C:\Users\User 1\OneDrive - ADvTECH Ltd\screenshots"")
-
+<img width="1681" height="1021" alt="1920x1080 Desktop" src="https://github.com/user-attachments/assets/8bbb8d83-d2bd-41da-8e62-25fee300deb4" />
 ### Tablet View (768 x 1024)
-[Insert screenshot of tablet view]
+<img width="602" height="1012" alt="481x768 tablet" src="https://github.com/user-attachments/assets/2def69e4-f1d5-417c-84f6-a829bd4d5ff0" />
 
 ### Mobile View (390 x 844)
-[Insert screenshot of mobile view]
+<img width="542" height="845" alt="iphone 12 pro- 390x844" src="https://github.com/user-attachments/assets/795df1fb-29fe-4d51-bed2-1eaff85557ca" />
 
 ### Small Mobile View (375 x 667)
-[Insert screenshot of small mobile view]
+<img width="831" height="762" alt="375x667 Cellphone" src="https://github.com/user-attachments/assets/0d31d85a-f40d-4ae8-a151-9313112ea9e5" />
+
+### Laptop view (1366 x 768)
+<img width="1217" height="937" alt="laptop " src="https://github.com/user-attachments/assets/97987369-5a08-4ffb-ab2e-23c6e537b8ba" />
+
 
 ---
 
