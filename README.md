@@ -116,8 +116,7 @@ CleanCoast Cape Town
 
 ### Deployment
 - **Platform:** Netlify
-- **Live URL:** https://cleancoast-cape-town.netlify.app
-
+- **Live URL:**https://part-3-poe.netlify.app/
 ---
 
 ## Screenshots (Responsive Design)
