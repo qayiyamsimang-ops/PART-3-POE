@@ -1,6 +1,4 @@
-// ============================================
 // ACCORDION - For About Page Team Bios
-// ============================================
 
 $(document).ready(function(){
     $('.accordion-header').click(function(){
