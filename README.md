@@ -123,16 +123,19 @@ CleanCoast Cape Town
 ## Screenshots (Responsive Design)
 
 ### Desktop View (1920 x 1080)
-[Insert screenshot of desktop homepage]
+<img width="1681" height="1021" alt="1920x1080 Desktop" src="https://github.com/user-attachments/assets/23cc2797-1c83-45ad-82f9-33d583ca7541" />
+
 
 ### Tablet View (768 x 1024)
-[Insert screenshot of tablet view]
+<img width="602" height="1012" alt="481x768 tablet" src="https://github.com/user-attachments/assets/550b6787-4398-4f02-b436-e9089b38da69" />
 
 ### Mobile View (390 x 844)
-[Insert screenshot of mobile view]
+<img width="542" height="845" alt="iphone 12 pro- 390x844" src="https://github.com/user-attachments/assets/5c911715-8ed4-47d7-8005-eaf8a03fee0b" />
+
 
 ### Small Mobile View (375 x 667)
-[Insert screenshot of small mobile view]
+<img width="607" height="977" alt="iphone XR" src="https://github.com/user-attachments/assets/afd0c01b-69e9-4e0d-9e64-11e8cdd00ec7" />
+
 
 ---
 
