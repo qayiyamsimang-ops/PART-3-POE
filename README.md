@@ -123,6 +123,7 @@ CleanCoast Cape Town
 
 ### Desktop View (1920 x 1080)
 <img width="1681" height="1021" alt="1920x1080 Desktop" src="https://github.com/user-attachments/assets/8bbb8d83-d2bd-41da-8e62-25fee300deb4" />
+
 ### Tablet View (768 x 1024)
 <img width="602" height="1012" alt="481x768 tablet" src="https://github.com/user-attachments/assets/2def69e4-f1d5-417c-84f6-a829bd4d5ff0" />
 
@@ -231,6 +232,7 @@ CleanCoast Cape Town
 | 09/06/2026 | Tested all pages for image display | Verification that images work |
 | 09/06/2026 | Final testing of all functionality | To ensure everything works |
 | 09/06/2026 | Submitted Part 3 for marking | Part 3 deadline |
+| 26/06/2026| Resubmitted Part 3 for marking as I ran out of credits on Netlify and had to deploy Part 3 website of Github |
 
 ### Changes Made AFTER Feedback (Parts 1-3)
 
@@ -315,4 +317,4 @@ Summary of Date Changes
 Part	Original Dates	Updated Dates
 Part 1	20-24 May	15-20 April
 Part 2	25-29 May	25-29 May (unchanged)
-Part 3	30 May - 22 June	30 May - 22 June (unchanged)
+Part 3	30 May - 22 June	30 May - 26 June (unchanged)
