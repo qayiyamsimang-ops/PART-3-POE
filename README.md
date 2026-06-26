@@ -116,8 +116,8 @@ CleanCoast Cape Town
 - robots.txt and sitemap.xml created
 
 ### Deployment
-- **Platform:** Netlify
-- **Live URL:**https://part-3-poe.netlify.app/
+- **Platform:** ithubG
+- **Live URL:**(https://qayiyamsimang-ops.github.io/PART-3-POE/)
 ---
 
 ## Screenshots (Responsive Design)
