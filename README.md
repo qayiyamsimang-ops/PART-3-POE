@@ -1,4 +1,3 @@
-<img width="831" height="762" alt="375x667 Cellphone" src="https://github.com/user-attachments/assets/db792054-6324-4766-b414-408c17dfdf37" />
 # CleanCoast Cape Town - Web Development POE
 
 ## Student Information
